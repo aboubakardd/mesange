@@ -6,5 +6,5 @@
  * @author D. Aboubakar
  */
  
- console.log("JD incorporé avec succès")
+ console.log("JS incorporé avec succès")
  
